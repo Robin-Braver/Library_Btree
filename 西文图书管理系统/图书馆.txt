@@ -1,0 +1,15 @@
+编号 名称 作者 现存 库存
+22 C++Programming LiChangHe 5 5 
+14 MathematicalAnalysisOfEngineering ZhaoJing 3 5 
+16 AdvancedEngineeringAlgebra LiHongWei 2 5 
+12 DiscreteMathematics CaiZhiHua 5 5 
+24 PrincipleOfComputerComposition BaiZhongYing 0 5 
+23 ProbabilityTheoryAndMathematicalStatistics LiuAnPing 5 5 
+19 CollegeEnglish3 ZhengShuTang 0 5 
+18 PythonProgramming DongFuGuo 5 5 
+17 DigitalLogic OuYangXingMing 5 5 
+15 C++Primer Stanley 4 5 
+20 AdvancedMathematics TongjiUniversity 0 5 
+13 Korean2 CuiHaiMan 5 5 
+11 NewKorean LiXiaoMing 5 5 
+21 DataStructure YinRenKun 5 5 
